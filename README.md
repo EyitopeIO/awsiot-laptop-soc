@@ -68,8 +68,8 @@ It's assumed you have an AWS account.
   "merge": {
     "iotRoleAlias": "GreengrassV2TokenExchangeRoleAlias",
     "awsRegion": "us-east-1",
-    "iotCredEndpoint": "c12hzsnmbvlms2.credentials.iot.us-east-1.amazonaws.com",
-    "iotDataEndpoint": "apkoiae5uf8tb-ats.iot.us-east-1.amazonaws.com",
+    "iotCredEndpoint": "<YOUR-CREDENTIAL-ENDPOINT>.credentials.iot.us-east-1.amazonaws.com",
+    "iotDataEndpoint": "<YOUR-DATA-ENDPOINT>-ats.iot.us-east-1.amazonaws.com",
     "runWithDefault": {
       "posixUser": "ggc_user:ggc_group"
     }
