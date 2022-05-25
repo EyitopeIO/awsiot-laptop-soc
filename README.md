@@ -1,5 +1,6 @@
 # awsiot-laptop-soc
-Upload to AWS the charging state of my Linux machine
+Upload to AWS the charging state of my Linux machine. 
+Greengrass was installed on my Linux (Ubuntu) machine
 
 ## Components Used
 - aws.greengrass.Nucleus
