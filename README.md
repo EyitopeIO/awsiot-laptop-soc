@@ -1,6 +1,7 @@
 # awsiot-laptop-soc
-Upload to AWS the charging state of my Linux machine. 
-Greengrass was installed on my Linux (Ubuntu) machine
+This repo is a demo to upload the charging state of my Linux machine
+to AWS using Greengrass on my PC. Greengrass is an IoT Linux application
+to interact with AWS IoT infrastructure.
 
 ## Components Used
 - aws.greengrass.Nucleus
